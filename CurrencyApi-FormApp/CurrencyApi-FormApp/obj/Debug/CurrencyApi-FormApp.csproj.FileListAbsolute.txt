@@ -1,0 +1,9 @@
+C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\bin\Debug\CurrencyApi-FormApp.exe.config
+C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\bin\Debug\CurrencyApi-FormApp.exe
+C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\bin\Debug\CurrencyApi-FormApp.pdb
+C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\obj\Debug\CurrencyApi-FormApp.csprojAssemblyReference.cache
+C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\obj\Debug\CurrencyApi_FormApp.Properties.Resources.resources
+C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\obj\Debug\CurrencyApi-FormApp.csproj.GenerateResource.cache
+C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\obj\Debug\CurrencyApi-FormApp.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\obj\Debug\CurrencyApi-FormApp.exe
+C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\obj\Debug\CurrencyApi-FormApp.pdb

@@ -1,0 +1,1611 @@
+LOG DOSYASI OLUŞTURULDU 7.06.2021 15:35:02
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 7.06.2021 15:35:02
+HATA: Veri tabanına bağlanırken hata oluştu. Veri tabanı adresi: C:\ProgramData\Mikro\v16xx\DATABASE.INI 7.06.2021 15:35:02
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 7.06.2021 15:36:25
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 7.06.2021 15:36:25
+HATA: Veri tabanına bağlanırken hata oluştu. Veri tabanı adresi: D:\v16xx\DATABASE.INI
+ 7.06.2021 15:36:25
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 7.06.2021 15:38:59
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 7.06.2021 15:38:59
+HATA: Veri tabanına bağlanırken hata oluştu. Veri tabanı adresi: C:\ProgramData\Mikro\v16xx\DATABASE.INI 7.06.2021 15:38:59
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 7.06.2021 15:39:21
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 7.06.2021 15:39:21
+BAŞARILI: Veri Tabanına Bağlandı. 7.06.2021 15:39:21
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 7.06.2021 15:39:21
+BAŞARILI: Veri Tabanına Bağlandı. 7.06.2021 15:39:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 15:40:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 7.06.2021 15:39:21
+BAŞARILI: Veri Tabanına Bağlandı. 7.06.2021 15:39:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 15:40:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 15:40:05
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 7.06.2021 15:39:21
+BAŞARILI: Veri Tabanına Bağlandı. 7.06.2021 15:39:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 15:40:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 15:40:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:40:57
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 7.06.2021 15:39:21
+BAŞARILI: Veri Tabanına Bağlandı. 7.06.2021 15:39:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 15:40:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 15:40:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:40:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:41:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 7.06.2021 15:39:21
+BAŞARILI: Veri Tabanına Bağlandı. 7.06.2021 15:39:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 15:40:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 15:40:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:40:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:41:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:41:02
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 7.06.2021 15:39:21
+BAŞARILI: Veri Tabanına Bağlandı. 7.06.2021 15:39:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 15:40:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 15:40:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:40:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:41:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:41:02
+HATA: Döviz Çekme Hatası 6.06.2021 15:41:32
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 7.06.2021 15:39:21
+BAŞARILI: Veri Tabanına Bağlandı. 7.06.2021 15:39:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 15:40:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 15:40:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:40:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:41:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:41:02
+HATA: Döviz Çekme Hatası 6.06.2021 15:41:32
+System.Data.SqlClient.SqlException (0x80131904): Yürütme Zaman Aşımı Süresi Doldu. Zaman aşımı süresi işlem tamamlanmadan önce doldu veya sunucu yanıt vermiyor. ---> System.ComponentModel.Win32Exception (0x80004005): Bekleme işlem zamanı aşıldı
+   konum: System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   konum: System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   konum: System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   konum: System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   konum: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   konum: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   konum: CurrencyApi_FormApp.Form1.<GetCurrency>d__8.MoveNext() C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\Form1.cs içinde: satır 204
+ClientConnectionId:b9a1753c-2a14-4363-9fb1-1eeb459968ef
+Error Number:-2,State:0,Class:11
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 7.06.2021 15:39:21
+BAŞARILI: Veri Tabanına Bağlandı. 7.06.2021 15:39:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 15:40:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 15:40:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:40:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:41:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:41:02
+HATA: Döviz Çekme Hatası 6.06.2021 15:41:32
+System.Data.SqlClient.SqlException (0x80131904): Yürütme Zaman Aşımı Süresi Doldu. Zaman aşımı süresi işlem tamamlanmadan önce doldu veya sunucu yanıt vermiyor. ---> System.ComponentModel.Win32Exception (0x80004005): Bekleme işlem zamanı aşıldı
+   konum: System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   konum: System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   konum: System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   konum: System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   konum: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   konum: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   konum: CurrencyApi_FormApp.Form1.<GetCurrency>d__8.MoveNext() C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\Form1.cs içinde: satır 204
+ClientConnectionId:b9a1753c-2a14-4363-9fb1-1eeb459968ef
+Error Number:-2,State:0,Class:11
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:42:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 7.06.2021 15:39:21
+BAŞARILI: Veri Tabanına Bağlandı. 7.06.2021 15:39:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 15:40:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 15:40:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:40:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:41:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:41:02
+HATA: Döviz Çekme Hatası 6.06.2021 15:41:32
+System.Data.SqlClient.SqlException (0x80131904): Yürütme Zaman Aşımı Süresi Doldu. Zaman aşımı süresi işlem tamamlanmadan önce doldu veya sunucu yanıt vermiyor. ---> System.ComponentModel.Win32Exception (0x80004005): Bekleme işlem zamanı aşıldı
+   konum: System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   konum: System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   konum: System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   konum: System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   konum: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   konum: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   konum: CurrencyApi_FormApp.Form1.<GetCurrency>d__8.MoveNext() C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\Form1.cs içinde: satır 204
+ClientConnectionId:b9a1753c-2a14-4363-9fb1-1eeb459968ef
+Error Number:-2,State:0,Class:11
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:42:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:42:05
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 7.06.2021 15:39:21
+BAŞARILI: Veri Tabanına Bağlandı. 7.06.2021 15:39:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 15:40:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 15:40:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:40:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:41:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:41:02
+HATA: Döviz Çekme Hatası 6.06.2021 15:41:32
+System.Data.SqlClient.SqlException (0x80131904): Yürütme Zaman Aşımı Süresi Doldu. Zaman aşımı süresi işlem tamamlanmadan önce doldu veya sunucu yanıt vermiyor. ---> System.ComponentModel.Win32Exception (0x80004005): Bekleme işlem zamanı aşıldı
+   konum: System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   konum: System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   konum: System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   konum: System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   konum: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   konum: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   konum: CurrencyApi_FormApp.Form1.<GetCurrency>d__8.MoveNext() C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\Form1.cs içinde: satır 204
+ClientConnectionId:b9a1753c-2a14-4363-9fb1-1eeb459968ef
+Error Number:-2,State:0,Class:11
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:42:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:42:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:43:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 7.06.2021 15:39:21
+BAŞARILI: Veri Tabanına Bağlandı. 7.06.2021 15:39:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 15:40:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 15:40:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:40:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:41:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:41:02
+HATA: Döviz Çekme Hatası 6.06.2021 15:41:32
+System.Data.SqlClient.SqlException (0x80131904): Yürütme Zaman Aşımı Süresi Doldu. Zaman aşımı süresi işlem tamamlanmadan önce doldu veya sunucu yanıt vermiyor. ---> System.ComponentModel.Win32Exception (0x80004005): Bekleme işlem zamanı aşıldı
+   konum: System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   konum: System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   konum: System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   konum: System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   konum: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   konum: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   konum: CurrencyApi_FormApp.Form1.<GetCurrency>d__8.MoveNext() C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\Form1.cs içinde: satır 204
+ClientConnectionId:b9a1753c-2a14-4363-9fb1-1eeb459968ef
+Error Number:-2,State:0,Class:11
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:42:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:42:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:43:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:43:04
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 7.06.2021 15:39:21
+BAŞARILI: Veri Tabanına Bağlandı. 7.06.2021 15:39:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 15:40:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 15:40:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:40:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:41:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:41:02
+HATA: Döviz Çekme Hatası 6.06.2021 15:41:32
+System.Data.SqlClient.SqlException (0x80131904): Yürütme Zaman Aşımı Süresi Doldu. Zaman aşımı süresi işlem tamamlanmadan önce doldu veya sunucu yanıt vermiyor. ---> System.ComponentModel.Win32Exception (0x80004005): Bekleme işlem zamanı aşıldı
+   konum: System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   konum: System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   konum: System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   konum: System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   konum: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   konum: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   konum: CurrencyApi_FormApp.Form1.<GetCurrency>d__8.MoveNext() C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\Form1.cs içinde: satır 204
+ClientConnectionId:b9a1753c-2a14-4363-9fb1-1eeb459968ef
+Error Number:-2,State:0,Class:11
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:42:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:42:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:43:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:43:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:44:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 7.06.2021 15:39:21
+BAŞARILI: Veri Tabanına Bağlandı. 7.06.2021 15:39:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 15:40:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 15:40:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:40:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:41:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:41:02
+HATA: Döviz Çekme Hatası 6.06.2021 15:41:32
+System.Data.SqlClient.SqlException (0x80131904): Yürütme Zaman Aşımı Süresi Doldu. Zaman aşımı süresi işlem tamamlanmadan önce doldu veya sunucu yanıt vermiyor. ---> System.ComponentModel.Win32Exception (0x80004005): Bekleme işlem zamanı aşıldı
+   konum: System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   konum: System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   konum: System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   konum: System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   konum: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   konum: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   konum: CurrencyApi_FormApp.Form1.<GetCurrency>d__8.MoveNext() C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\Form1.cs içinde: satır 204
+ClientConnectionId:b9a1753c-2a14-4363-9fb1-1eeb459968ef
+Error Number:-2,State:0,Class:11
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:42:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:42:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:43:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:43:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:44:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:44:05
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 7.06.2021 15:39:21
+BAŞARILI: Veri Tabanına Bağlandı. 7.06.2021 15:39:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 15:40:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 15:40:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:40:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:41:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:41:02
+HATA: Döviz Çekme Hatası 6.06.2021 15:41:32
+System.Data.SqlClient.SqlException (0x80131904): Yürütme Zaman Aşımı Süresi Doldu. Zaman aşımı süresi işlem tamamlanmadan önce doldu veya sunucu yanıt vermiyor. ---> System.ComponentModel.Win32Exception (0x80004005): Bekleme işlem zamanı aşıldı
+   konum: System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   konum: System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   konum: System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   konum: System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   konum: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   konum: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   konum: CurrencyApi_FormApp.Form1.<GetCurrency>d__8.MoveNext() C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\Form1.cs içinde: satır 204
+ClientConnectionId:b9a1753c-2a14-4363-9fb1-1eeb459968ef
+Error Number:-2,State:0,Class:11
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:42:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:42:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:43:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:43:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:44:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:44:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:45:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 7.06.2021 15:39:21
+BAŞARILI: Veri Tabanına Bağlandı. 7.06.2021 15:39:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 15:40:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 15:40:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:40:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:41:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:41:02
+HATA: Döviz Çekme Hatası 6.06.2021 15:41:32
+System.Data.SqlClient.SqlException (0x80131904): Yürütme Zaman Aşımı Süresi Doldu. Zaman aşımı süresi işlem tamamlanmadan önce doldu veya sunucu yanıt vermiyor. ---> System.ComponentModel.Win32Exception (0x80004005): Bekleme işlem zamanı aşıldı
+   konum: System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   konum: System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   konum: System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   konum: System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   konum: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   konum: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   konum: CurrencyApi_FormApp.Form1.<GetCurrency>d__8.MoveNext() C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\Form1.cs içinde: satır 204
+ClientConnectionId:b9a1753c-2a14-4363-9fb1-1eeb459968ef
+Error Number:-2,State:0,Class:11
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:42:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:42:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:43:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:43:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:44:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:44:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:45:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:45:04
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 7.06.2021 15:39:21
+BAŞARILI: Veri Tabanına Bağlandı. 7.06.2021 15:39:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 15:40:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 15:40:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:40:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:41:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:41:02
+HATA: Döviz Çekme Hatası 6.06.2021 15:41:32
+System.Data.SqlClient.SqlException (0x80131904): Yürütme Zaman Aşımı Süresi Doldu. Zaman aşımı süresi işlem tamamlanmadan önce doldu veya sunucu yanıt vermiyor. ---> System.ComponentModel.Win32Exception (0x80004005): Bekleme işlem zamanı aşıldı
+   konum: System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   konum: System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   konum: System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   konum: System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   konum: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   konum: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   konum: CurrencyApi_FormApp.Form1.<GetCurrency>d__8.MoveNext() C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\Form1.cs içinde: satır 204
+ClientConnectionId:b9a1753c-2a14-4363-9fb1-1eeb459968ef
+Error Number:-2,State:0,Class:11
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:42:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:42:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:43:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:43:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:44:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:44:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:45:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:45:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:46:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 7.06.2021 15:39:21
+BAŞARILI: Veri Tabanına Bağlandı. 7.06.2021 15:39:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 15:40:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 15:40:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:40:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:41:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:41:02
+HATA: Döviz Çekme Hatası 6.06.2021 15:41:32
+System.Data.SqlClient.SqlException (0x80131904): Yürütme Zaman Aşımı Süresi Doldu. Zaman aşımı süresi işlem tamamlanmadan önce doldu veya sunucu yanıt vermiyor. ---> System.ComponentModel.Win32Exception (0x80004005): Bekleme işlem zamanı aşıldı
+   konum: System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   konum: System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   konum: System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   konum: System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   konum: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   konum: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   konum: CurrencyApi_FormApp.Form1.<GetCurrency>d__8.MoveNext() C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\Form1.cs içinde: satır 204
+ClientConnectionId:b9a1753c-2a14-4363-9fb1-1eeb459968ef
+Error Number:-2,State:0,Class:11
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:42:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:42:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:43:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:43:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:44:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:44:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:45:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:45:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:46:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:46:10
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 7.06.2021 15:39:21
+BAŞARILI: Veri Tabanına Bağlandı. 7.06.2021 15:39:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 15:40:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 15:40:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:40:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:41:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:41:02
+HATA: Döviz Çekme Hatası 6.06.2021 15:41:32
+System.Data.SqlClient.SqlException (0x80131904): Yürütme Zaman Aşımı Süresi Doldu. Zaman aşımı süresi işlem tamamlanmadan önce doldu veya sunucu yanıt vermiyor. ---> System.ComponentModel.Win32Exception (0x80004005): Bekleme işlem zamanı aşıldı
+   konum: System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   konum: System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   konum: System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   konum: System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   konum: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   konum: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   konum: CurrencyApi_FormApp.Form1.<GetCurrency>d__8.MoveNext() C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\Form1.cs içinde: satır 204
+ClientConnectionId:b9a1753c-2a14-4363-9fb1-1eeb459968ef
+Error Number:-2,State:0,Class:11
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:42:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:42:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:43:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:43:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:44:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:44:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:45:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:45:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:46:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:46:10
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:47:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 7.06.2021 15:39:21
+BAŞARILI: Veri Tabanına Bağlandı. 7.06.2021 15:39:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 15:40:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 15:40:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:40:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:41:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:41:02
+HATA: Döviz Çekme Hatası 6.06.2021 15:41:32
+System.Data.SqlClient.SqlException (0x80131904): Yürütme Zaman Aşımı Süresi Doldu. Zaman aşımı süresi işlem tamamlanmadan önce doldu veya sunucu yanıt vermiyor. ---> System.ComponentModel.Win32Exception (0x80004005): Bekleme işlem zamanı aşıldı
+   konum: System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   konum: System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   konum: System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   konum: System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   konum: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   konum: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   konum: CurrencyApi_FormApp.Form1.<GetCurrency>d__8.MoveNext() C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\Form1.cs içinde: satır 204
+ClientConnectionId:b9a1753c-2a14-4363-9fb1-1eeb459968ef
+Error Number:-2,State:0,Class:11
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:42:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:42:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:43:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:43:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:44:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:44:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:45:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:45:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:46:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:46:10
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:47:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:47:04
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 7.06.2021 15:39:21
+BAŞARILI: Veri Tabanına Bağlandı. 7.06.2021 15:39:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 15:40:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 15:40:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:40:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:41:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:41:02
+HATA: Döviz Çekme Hatası 6.06.2021 15:41:32
+System.Data.SqlClient.SqlException (0x80131904): Yürütme Zaman Aşımı Süresi Doldu. Zaman aşımı süresi işlem tamamlanmadan önce doldu veya sunucu yanıt vermiyor. ---> System.ComponentModel.Win32Exception (0x80004005): Bekleme işlem zamanı aşıldı
+   konum: System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   konum: System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   konum: System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   konum: System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   konum: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   konum: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   konum: CurrencyApi_FormApp.Form1.<GetCurrency>d__8.MoveNext() C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\Form1.cs içinde: satır 204
+ClientConnectionId:b9a1753c-2a14-4363-9fb1-1eeb459968ef
+Error Number:-2,State:0,Class:11
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:42:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:42:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:43:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:43:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:44:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:44:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:45:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:45:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:46:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:46:10
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:47:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:47:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:48:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 7.06.2021 15:39:21
+BAŞARILI: Veri Tabanına Bağlandı. 7.06.2021 15:39:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 15:40:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 15:40:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:40:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:41:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:41:02
+HATA: Döviz Çekme Hatası 6.06.2021 15:41:32
+System.Data.SqlClient.SqlException (0x80131904): Yürütme Zaman Aşımı Süresi Doldu. Zaman aşımı süresi işlem tamamlanmadan önce doldu veya sunucu yanıt vermiyor. ---> System.ComponentModel.Win32Exception (0x80004005): Bekleme işlem zamanı aşıldı
+   konum: System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   konum: System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   konum: System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   konum: System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   konum: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   konum: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   konum: CurrencyApi_FormApp.Form1.<GetCurrency>d__8.MoveNext() C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\Form1.cs içinde: satır 204
+ClientConnectionId:b9a1753c-2a14-4363-9fb1-1eeb459968ef
+Error Number:-2,State:0,Class:11
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:42:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:42:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:43:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:43:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:44:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:44:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:45:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:45:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:46:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:46:10
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:47:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:47:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:48:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:48:04
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 7.06.2021 15:39:21
+BAŞARILI: Veri Tabanına Bağlandı. 7.06.2021 15:39:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 15:40:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 15:40:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:40:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:41:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:41:02
+HATA: Döviz Çekme Hatası 6.06.2021 15:41:32
+System.Data.SqlClient.SqlException (0x80131904): Yürütme Zaman Aşımı Süresi Doldu. Zaman aşımı süresi işlem tamamlanmadan önce doldu veya sunucu yanıt vermiyor. ---> System.ComponentModel.Win32Exception (0x80004005): Bekleme işlem zamanı aşıldı
+   konum: System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   konum: System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   konum: System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   konum: System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   konum: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   konum: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   konum: CurrencyApi_FormApp.Form1.<GetCurrency>d__8.MoveNext() C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\Form1.cs içinde: satır 204
+ClientConnectionId:b9a1753c-2a14-4363-9fb1-1eeb459968ef
+Error Number:-2,State:0,Class:11
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:42:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:42:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:43:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:43:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:44:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:44:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:45:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:45:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:46:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:46:10
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:47:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:47:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:48:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:48:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:49:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 7.06.2021 15:39:21
+BAŞARILI: Veri Tabanına Bağlandı. 7.06.2021 15:39:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 15:40:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 15:40:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:40:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:41:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:41:02
+HATA: Döviz Çekme Hatası 6.06.2021 15:41:32
+System.Data.SqlClient.SqlException (0x80131904): Yürütme Zaman Aşımı Süresi Doldu. Zaman aşımı süresi işlem tamamlanmadan önce doldu veya sunucu yanıt vermiyor. ---> System.ComponentModel.Win32Exception (0x80004005): Bekleme işlem zamanı aşıldı
+   konum: System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   konum: System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   konum: System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   konum: System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   konum: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   konum: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   konum: CurrencyApi_FormApp.Form1.<GetCurrency>d__8.MoveNext() C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\Form1.cs içinde: satır 204
+ClientConnectionId:b9a1753c-2a14-4363-9fb1-1eeb459968ef
+Error Number:-2,State:0,Class:11
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:42:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:42:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:43:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:43:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:44:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:44:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:45:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:45:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:46:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:46:10
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:47:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:47:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:48:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:48:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:49:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:49:04
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 7.06.2021 15:39:21
+BAŞARILI: Veri Tabanına Bağlandı. 7.06.2021 15:39:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 15:40:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 15:40:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:40:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:41:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:41:02
+HATA: Döviz Çekme Hatası 6.06.2021 15:41:32
+System.Data.SqlClient.SqlException (0x80131904): Yürütme Zaman Aşımı Süresi Doldu. Zaman aşımı süresi işlem tamamlanmadan önce doldu veya sunucu yanıt vermiyor. ---> System.ComponentModel.Win32Exception (0x80004005): Bekleme işlem zamanı aşıldı
+   konum: System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   konum: System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   konum: System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   konum: System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   konum: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   konum: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   konum: CurrencyApi_FormApp.Form1.<GetCurrency>d__8.MoveNext() C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\Form1.cs içinde: satır 204
+ClientConnectionId:b9a1753c-2a14-4363-9fb1-1eeb459968ef
+Error Number:-2,State:0,Class:11
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:42:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:42:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:43:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:43:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:44:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:44:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:45:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:45:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:46:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:46:10
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:47:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:47:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:48:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:48:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:49:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:49:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:50:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 7.06.2021 15:39:21
+BAŞARILI: Veri Tabanına Bağlandı. 7.06.2021 15:39:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 15:40:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 15:40:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:40:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:41:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:41:02
+HATA: Döviz Çekme Hatası 6.06.2021 15:41:32
+System.Data.SqlClient.SqlException (0x80131904): Yürütme Zaman Aşımı Süresi Doldu. Zaman aşımı süresi işlem tamamlanmadan önce doldu veya sunucu yanıt vermiyor. ---> System.ComponentModel.Win32Exception (0x80004005): Bekleme işlem zamanı aşıldı
+   konum: System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   konum: System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   konum: System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   konum: System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   konum: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   konum: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   konum: CurrencyApi_FormApp.Form1.<GetCurrency>d__8.MoveNext() C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\Form1.cs içinde: satır 204
+ClientConnectionId:b9a1753c-2a14-4363-9fb1-1eeb459968ef
+Error Number:-2,State:0,Class:11
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:42:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:42:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:43:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:43:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:44:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:44:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:45:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:45:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:46:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:46:10
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:47:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:47:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:48:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:48:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:49:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:49:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:50:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:50:14
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 7.06.2021 15:39:21
+BAŞARILI: Veri Tabanına Bağlandı. 7.06.2021 15:39:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 15:40:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 15:40:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:40:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:41:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:41:02
+HATA: Döviz Çekme Hatası 6.06.2021 15:41:32
+System.Data.SqlClient.SqlException (0x80131904): Yürütme Zaman Aşımı Süresi Doldu. Zaman aşımı süresi işlem tamamlanmadan önce doldu veya sunucu yanıt vermiyor. ---> System.ComponentModel.Win32Exception (0x80004005): Bekleme işlem zamanı aşıldı
+   konum: System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   konum: System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   konum: System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   konum: System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   konum: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   konum: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   konum: CurrencyApi_FormApp.Form1.<GetCurrency>d__8.MoveNext() C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\Form1.cs içinde: satır 204
+ClientConnectionId:b9a1753c-2a14-4363-9fb1-1eeb459968ef
+Error Number:-2,State:0,Class:11
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:42:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:42:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:43:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:43:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:44:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:44:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:45:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:45:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:46:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:46:10
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:47:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:47:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:48:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:48:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:49:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:49:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:50:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:50:14
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:51:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 7.06.2021 15:39:21
+BAŞARILI: Veri Tabanına Bağlandı. 7.06.2021 15:39:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 15:40:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 15:40:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:40:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:41:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:41:02
+HATA: Döviz Çekme Hatası 6.06.2021 15:41:32
+System.Data.SqlClient.SqlException (0x80131904): Yürütme Zaman Aşımı Süresi Doldu. Zaman aşımı süresi işlem tamamlanmadan önce doldu veya sunucu yanıt vermiyor. ---> System.ComponentModel.Win32Exception (0x80004005): Bekleme işlem zamanı aşıldı
+   konum: System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   konum: System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   konum: System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   konum: System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   konum: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   konum: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   konum: CurrencyApi_FormApp.Form1.<GetCurrency>d__8.MoveNext() C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\Form1.cs içinde: satır 204
+ClientConnectionId:b9a1753c-2a14-4363-9fb1-1eeb459968ef
+Error Number:-2,State:0,Class:11
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:42:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:42:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:43:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:43:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:44:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:44:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:45:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:45:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:46:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:46:10
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:47:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:47:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:48:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:48:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:49:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:49:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:50:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:50:14
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:51:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:51:04
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 7.06.2021 15:39:21
+BAŞARILI: Veri Tabanına Bağlandı. 7.06.2021 15:39:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 15:40:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 15:40:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:40:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:41:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:41:02
+HATA: Döviz Çekme Hatası 6.06.2021 15:41:32
+System.Data.SqlClient.SqlException (0x80131904): Yürütme Zaman Aşımı Süresi Doldu. Zaman aşımı süresi işlem tamamlanmadan önce doldu veya sunucu yanıt vermiyor. ---> System.ComponentModel.Win32Exception (0x80004005): Bekleme işlem zamanı aşıldı
+   konum: System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   konum: System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   konum: System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   konum: System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   konum: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   konum: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   konum: CurrencyApi_FormApp.Form1.<GetCurrency>d__8.MoveNext() C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\Form1.cs içinde: satır 204
+ClientConnectionId:b9a1753c-2a14-4363-9fb1-1eeb459968ef
+Error Number:-2,State:0,Class:11
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:42:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:42:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:43:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:43:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:44:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:44:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:45:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:45:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:46:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:46:10
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:47:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:47:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:48:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:48:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:49:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:49:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:50:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:50:14
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:51:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:51:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:52:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 7.06.2021 15:39:21
+BAŞARILI: Veri Tabanına Bağlandı. 7.06.2021 15:39:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 15:40:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 15:40:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:40:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:41:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:41:02
+HATA: Döviz Çekme Hatası 6.06.2021 15:41:32
+System.Data.SqlClient.SqlException (0x80131904): Yürütme Zaman Aşımı Süresi Doldu. Zaman aşımı süresi işlem tamamlanmadan önce doldu veya sunucu yanıt vermiyor. ---> System.ComponentModel.Win32Exception (0x80004005): Bekleme işlem zamanı aşıldı
+   konum: System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   konum: System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   konum: System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   konum: System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   konum: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   konum: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   konum: CurrencyApi_FormApp.Form1.<GetCurrency>d__8.MoveNext() C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\Form1.cs içinde: satır 204
+ClientConnectionId:b9a1753c-2a14-4363-9fb1-1eeb459968ef
+Error Number:-2,State:0,Class:11
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:42:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:42:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:43:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:43:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:44:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:44:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:45:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:45:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:46:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:46:10
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:47:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:47:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:48:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:48:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:49:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:49:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:50:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:50:14
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:51:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:51:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:52:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:52:04
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 7.06.2021 15:39:21
+BAŞARILI: Veri Tabanına Bağlandı. 7.06.2021 15:39:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 15:40:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 15:40:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:40:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:41:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:41:02
+HATA: Döviz Çekme Hatası 6.06.2021 15:41:32
+System.Data.SqlClient.SqlException (0x80131904): Yürütme Zaman Aşımı Süresi Doldu. Zaman aşımı süresi işlem tamamlanmadan önce doldu veya sunucu yanıt vermiyor. ---> System.ComponentModel.Win32Exception (0x80004005): Bekleme işlem zamanı aşıldı
+   konum: System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   konum: System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   konum: System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   konum: System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   konum: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   konum: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   konum: CurrencyApi_FormApp.Form1.<GetCurrency>d__8.MoveNext() C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\Form1.cs içinde: satır 204
+ClientConnectionId:b9a1753c-2a14-4363-9fb1-1eeb459968ef
+Error Number:-2,State:0,Class:11
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:42:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:42:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:43:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:43:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:44:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:44:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:45:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:45:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:46:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:46:10
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:47:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:47:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:48:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:48:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:49:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:49:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:50:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:50:14
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:51:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:51:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:52:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:52:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:53:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 7.06.2021 15:39:21
+BAŞARILI: Veri Tabanına Bağlandı. 7.06.2021 15:39:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 15:40:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 15:40:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:40:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:41:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:41:02
+HATA: Döviz Çekme Hatası 6.06.2021 15:41:32
+System.Data.SqlClient.SqlException (0x80131904): Yürütme Zaman Aşımı Süresi Doldu. Zaman aşımı süresi işlem tamamlanmadan önce doldu veya sunucu yanıt vermiyor. ---> System.ComponentModel.Win32Exception (0x80004005): Bekleme işlem zamanı aşıldı
+   konum: System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   konum: System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   konum: System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   konum: System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   konum: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   konum: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   konum: CurrencyApi_FormApp.Form1.<GetCurrency>d__8.MoveNext() C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\Form1.cs içinde: satır 204
+ClientConnectionId:b9a1753c-2a14-4363-9fb1-1eeb459968ef
+Error Number:-2,State:0,Class:11
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:42:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:42:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:43:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:43:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:44:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:44:05
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:45:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:45:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:46:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:46:10
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:47:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:47:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:48:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:48:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:49:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:49:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:50:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:50:14
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:51:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:51:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:52:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:52:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 6.06.2021 15:53:00
+BAŞARILI: Döviz Çekme Başarılı 6.06.2021 15:53:04
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 6.06.2021 15:54:49
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 6.06.2021 15:54:49
+BAŞARILI: Veri Tabanına Bağlandı. 6.06.2021 15:54:49
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 16.06.2021 15:59:43
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 16.06.2021 15:59:43
+BAŞARILI: Veri Tabanına Bağlandı. 16.06.2021 15:59:43
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 16.06.2021 15:59:43
+BAŞARILI: Veri Tabanına Bağlandı. 16.06.2021 15:59:43
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 16.06.2021 16:00:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 16.06.2021 15:59:43
+BAŞARILI: Veri Tabanına Bağlandı. 16.06.2021 15:59:43
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 16.06.2021 16:00:00
+BAŞARILI: Döviz Çekme Başarılı 16.06.2021 16:00:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 16.06.2021 15:59:43
+BAŞARILI: Veri Tabanına Bağlandı. 16.06.2021 15:59:43
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 16.06.2021 16:00:00
+BAŞARILI: Döviz Çekme Başarılı 16.06.2021 16:00:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 15.06.2021 16:00:57
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 16.06.2021 15:59:43
+BAŞARILI: Veri Tabanına Bağlandı. 16.06.2021 15:59:43
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 16.06.2021 16:00:00
+BAŞARILI: Döviz Çekme Başarılı 16.06.2021 16:00:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 15.06.2021 16:00:57
+BAŞARILI: Döviz Çekme Başarılı 15.06.2021 16:00:57
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 16.06.2021 15:59:43
+BAŞARILI: Veri Tabanına Bağlandı. 16.06.2021 15:59:43
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 16.06.2021 16:00:00
+BAŞARILI: Döviz Çekme Başarılı 16.06.2021 16:00:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 15.06.2021 16:00:57
+BAŞARILI: Döviz Çekme Başarılı 15.06.2021 16:00:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 15.06.2021 16:01:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 16.06.2021 15:59:43
+BAŞARILI: Veri Tabanına Bağlandı. 16.06.2021 15:59:43
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 16.06.2021 16:00:00
+BAŞARILI: Döviz Çekme Başarılı 16.06.2021 16:00:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 15.06.2021 16:00:57
+BAŞARILI: Döviz Çekme Başarılı 15.06.2021 16:00:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 15.06.2021 16:01:00
+BAŞARILI: Döviz Çekme Başarılı 15.06.2021 16:01:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 15.06.2021 16:01:31
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 15.06.2021 16:01:31
+BAŞARILI: Veri Tabanına Bağlandı. 15.06.2021 16:01:31
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 15.06.2021 16:01:31
+BAŞARILI: Veri Tabanına Bağlandı. 15.06.2021 16:01:31
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:01:57
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 15.06.2021 16:01:31
+BAŞARILI: Veri Tabanına Bağlandı. 15.06.2021 16:01:31
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:01:57
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:01:57
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 15.06.2021 16:01:31
+BAŞARILI: Veri Tabanına Bağlandı. 15.06.2021 16:01:31
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:01:57
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:01:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:02:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 15.06.2021 16:01:31
+BAŞARILI: Veri Tabanına Bağlandı. 15.06.2021 16:01:31
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:01:57
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:01:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:02:00
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:02:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 15.06.2021 16:01:31
+BAŞARILI: Veri Tabanına Bağlandı. 15.06.2021 16:01:31
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:01:57
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:01:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:02:00
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:02:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:02:57
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 15.06.2021 16:01:31
+BAŞARILI: Veri Tabanına Bağlandı. 15.06.2021 16:01:31
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:01:57
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:01:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:02:00
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:02:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:02:57
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:02:57
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 15.06.2021 16:01:31
+BAŞARILI: Veri Tabanına Bağlandı. 15.06.2021 16:01:31
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:01:57
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:01:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:02:00
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:02:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:02:57
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:02:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:03:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 15.06.2021 16:01:31
+BAŞARILI: Veri Tabanına Bağlandı. 15.06.2021 16:01:31
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:01:57
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:01:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:02:00
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:02:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:02:57
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:02:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:03:00
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:03:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 15.06.2021 16:01:31
+BAŞARILI: Veri Tabanına Bağlandı. 15.06.2021 16:01:31
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:01:57
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:01:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:02:00
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:02:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:02:57
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:02:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:03:00
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:03:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:03:53
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 15.06.2021 16:01:31
+BAŞARILI: Veri Tabanına Bağlandı. 15.06.2021 16:01:31
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:01:57
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:01:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:02:00
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:02:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:02:57
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:02:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:03:00
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:03:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:03:53
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:03:53
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 15.06.2021 16:01:31
+BAŞARILI: Veri Tabanına Bağlandı. 15.06.2021 16:01:31
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:01:57
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:01:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:02:00
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:02:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:02:57
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:02:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:03:00
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:03:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:03:53
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:03:53
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:04:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 15.06.2021 16:01:31
+BAŞARILI: Veri Tabanına Bağlandı. 15.06.2021 16:01:31
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:01:57
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:01:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:02:00
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:02:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:02:57
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:02:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:03:00
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:03:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:03:53
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:03:53
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:04:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:04:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 15.06.2021 16:01:31
+BAŞARILI: Veri Tabanına Bağlandı. 15.06.2021 16:01:31
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:01:57
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:01:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:02:00
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:02:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:02:57
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:02:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:03:00
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:03:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:03:53
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:03:53
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:04:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:04:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:05:01
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 15.06.2021 16:01:31
+BAŞARILI: Veri Tabanına Bağlandı. 15.06.2021 16:01:31
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:01:57
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:01:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:02:00
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:02:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:02:57
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:02:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:03:00
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:03:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:03:53
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:03:53
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:04:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:04:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:05:01
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:05:01
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 15.06.2021 16:01:31
+BAŞARILI: Veri Tabanına Bağlandı. 15.06.2021 16:01:31
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:01:57
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:01:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:02:00
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:02:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:02:57
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:02:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:03:00
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:03:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:03:53
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:03:53
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:04:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:04:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:05:01
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:05:01
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:06:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 15.06.2021 16:01:31
+BAŞARILI: Veri Tabanına Bağlandı. 15.06.2021 16:01:31
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:01:57
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:01:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:02:00
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:02:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:02:57
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:02:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:03:00
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:03:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:03:53
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:03:53
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:04:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:04:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:05:01
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:05:01
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:06:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:06:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 15.06.2021 16:01:31
+BAŞARILI: Veri Tabanına Bağlandı. 15.06.2021 16:01:31
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:01:57
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:01:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:02:00
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:02:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:02:57
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:02:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:03:00
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:03:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:03:53
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:03:53
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:04:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:04:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:05:01
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:05:01
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:06:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:06:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:07:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 15.06.2021 16:01:31
+BAŞARILI: Veri Tabanına Bağlandı. 15.06.2021 16:01:31
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:01:57
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:01:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:02:00
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:02:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:02:57
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:02:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:03:00
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:03:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:03:53
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:03:53
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:04:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:04:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:05:01
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:05:01
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:06:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:06:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:07:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:07:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 15.06.2021 16:01:31
+BAŞARILI: Veri Tabanına Bağlandı. 15.06.2021 16:01:31
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:01:57
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:01:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:02:00
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:02:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:02:57
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:02:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:03:00
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:03:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:03:53
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:03:53
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:04:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:04:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:05:01
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:05:01
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:06:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:06:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:07:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:07:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 16:07:56
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 15.06.2021 16:01:31
+BAŞARILI: Veri Tabanına Bağlandı. 15.06.2021 16:01:31
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:01:57
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:01:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:02:00
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:02:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:02:57
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:02:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:03:00
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:03:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:03:53
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:03:53
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:04:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:04:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:05:01
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:05:01
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:06:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:06:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:07:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:07:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 16:07:56
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 16:07:56
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 15.06.2021 16:01:31
+BAŞARILI: Veri Tabanına Bağlandı. 15.06.2021 16:01:31
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:01:57
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:01:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:02:00
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:02:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:02:57
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:02:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:03:00
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:03:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:03:53
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:03:53
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:04:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:04:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:05:01
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:05:01
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:06:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:06:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:07:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:07:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 16:07:56
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 16:07:56
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 16:08:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 15.06.2021 16:01:31
+BAŞARILI: Veri Tabanına Bağlandı. 15.06.2021 16:01:31
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:01:57
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:01:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:02:00
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:02:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:02:57
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:02:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:03:00
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:03:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:03:53
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:03:53
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:04:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:04:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:05:01
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:05:01
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:06:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:06:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:07:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:07:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 16:07:56
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 16:07:56
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 16:08:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 16:08:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 15.06.2021 16:01:31
+BAŞARILI: Veri Tabanına Bağlandı. 15.06.2021 16:01:31
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:01:57
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:01:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:02:00
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:02:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:02:57
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:02:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:03:00
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:03:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:03:53
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:03:53
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:04:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:04:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:05:01
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:05:01
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:06:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:06:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:07:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:07:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 16:07:56
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 16:07:56
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 16:08:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 16:08:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 16:09:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 15.06.2021 16:01:31
+BAŞARILI: Veri Tabanına Bağlandı. 15.06.2021 16:01:31
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:01:57
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:01:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:02:00
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:02:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:02:57
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:02:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:03:00
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:03:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:03:53
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:03:53
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:04:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:04:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:05:01
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:05:01
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:06:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:06:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:07:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:07:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 16:07:56
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 16:07:56
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 16:08:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 16:08:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 16:09:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 16:09:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 15.06.2021 16:01:31
+BAŞARILI: Veri Tabanına Bağlandı. 15.06.2021 16:01:31
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:01:57
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:01:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:02:00
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:02:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:02:57
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:02:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:03:00
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:03:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:03:53
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:03:53
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:04:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:04:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:05:01
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:05:01
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:06:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:06:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:07:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:07:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 16:07:56
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 16:07:56
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 16:08:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 16:08:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 16:09:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 16:09:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 16.06.2021 16:10:20
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 15.06.2021 16:01:31
+BAŞARILI: Veri Tabanına Bağlandı. 15.06.2021 16:01:31
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:01:57
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:01:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:02:00
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:02:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:02:57
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:02:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:03:00
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:03:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:03:53
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:03:53
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:04:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:04:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:05:01
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:05:01
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:06:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:06:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:07:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:07:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 16:07:56
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 16:07:56
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 16:08:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 16:08:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 16:09:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 16:09:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 16.06.2021 16:10:20
+BAŞARILI: Döviz Çekme Başarılı 16.06.2021 16:10:20
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 15.06.2021 16:01:31
+BAŞARILI: Veri Tabanına Bağlandı. 15.06.2021 16:01:31
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:01:57
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:01:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:02:00
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:02:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:02:57
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:02:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:03:00
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:03:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:03:53
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:03:53
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:04:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:04:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:05:01
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:05:01
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:06:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:06:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:07:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:07:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 16:07:56
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 16:07:56
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 16:08:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 16:08:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 16:09:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 16:09:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 16.06.2021 16:10:20
+BAŞARILI: Döviz Çekme Başarılı 16.06.2021 16:10:20
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 16.06.2021 16:11:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 15.06.2021 16:01:31
+BAŞARILI: Veri Tabanına Bağlandı. 15.06.2021 16:01:31
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:01:57
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:01:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:02:00
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:02:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:02:57
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:02:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 13.06.2021 16:03:00
+BAŞARILI: Döviz Çekme Başarılı 13.06.2021 16:03:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:03:53
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:03:53
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:04:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:04:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:05:01
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:05:01
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:06:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:06:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 9.06.2021 16:07:00
+BAŞARILI: Döviz Çekme Başarılı 9.06.2021 16:07:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 16:07:56
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 16:07:56
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 16:08:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 16:08:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 7.06.2021 16:09:00
+BAŞARILI: Döviz Çekme Başarılı 7.06.2021 16:09:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 16.06.2021 16:10:20
+BAŞARILI: Döviz Çekme Başarılı 16.06.2021 16:10:20
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 16.06.2021 16:11:00
+BAŞARILI: Döviz Çekme Başarılı 16.06.2021 16:11:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 16.06.2021 16:12:02
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 16.06.2021 16:12:02
+BAŞARILI: Veri Tabanına Bağlandı. 16.06.2021 16:12:02
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 16.06.2021 16:12:02
+BAŞARILI: Veri Tabanına Bağlandı. 16.06.2021 16:12:02
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 16.06.2021 16:13:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 16.06.2021 16:12:02
+BAŞARILI: Veri Tabanına Bağlandı. 16.06.2021 16:12:02
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 16.06.2021 16:13:00
+BAŞARILI: Döviz Çekme Başarılı 16.06.2021 16:13:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 16.06.2021 16:12:02
+BAŞARILI: Veri Tabanına Bağlandı. 16.06.2021 16:12:02
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 16.06.2021 16:13:00
+BAŞARILI: Döviz Çekme Başarılı 16.06.2021 16:13:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 16.06.2021 16:14:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 16.06.2021 16:12:02
+BAŞARILI: Veri Tabanına Bağlandı. 16.06.2021 16:12:02
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 16.06.2021 16:13:00
+BAŞARILI: Döviz Çekme Başarılı 16.06.2021 16:13:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 16.06.2021 16:14:00
+BAŞARILI: Döviz Çekme Başarılı 16.06.2021 16:14:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 16.06.2021 16:36:21
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 16.06.2021 16:36:21
+BAŞARILI: Veri Tabanına Bağlandı. 16.06.2021 16:36:21
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 16.06.2021 16:36:21
+BAŞARILI: Veri Tabanına Bağlandı. 16.06.2021 16:36:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 16.06.2021 16:37:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 16.06.2021 16:36:21
+BAŞARILI: Veri Tabanına Bağlandı. 16.06.2021 16:36:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 16.06.2021 16:37:00
+BAŞARILI: Döviz Çekme Başarılı 16.06.2021 16:37:04
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 16.06.2021 16:36:21
+BAŞARILI: Veri Tabanına Bağlandı. 16.06.2021 16:36:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 16.06.2021 16:37:00
+BAŞARILI: Döviz Çekme Başarılı 16.06.2021 16:37:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 15.06.2021 16:37:57
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 16.06.2021 16:36:21
+BAŞARILI: Veri Tabanına Bağlandı. 16.06.2021 16:36:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 16.06.2021 16:37:00
+BAŞARILI: Döviz Çekme Başarılı 16.06.2021 16:37:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 15.06.2021 16:37:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 15.06.2021 16:38:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 16.06.2021 16:36:21
+BAŞARILI: Veri Tabanına Bağlandı. 16.06.2021 16:36:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 16.06.2021 16:37:00
+BAŞARILI: Döviz Çekme Başarılı 16.06.2021 16:37:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 15.06.2021 16:37:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 15.06.2021 16:38:00
+BAŞARILI: Döviz Çekme Başarılı 15.06.2021 16:38:01
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 16.06.2021 16:36:21
+BAŞARILI: Veri Tabanına Bağlandı. 16.06.2021 16:36:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 16.06.2021 16:37:00
+BAŞARILI: Döviz Çekme Başarılı 16.06.2021 16:37:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 15.06.2021 16:37:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 15.06.2021 16:38:00
+BAŞARILI: Döviz Çekme Başarılı 15.06.2021 16:38:01
+HATA: Döviz Çekme Hatası 15.06.2021 16:38:01
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 16.06.2021 16:36:21
+BAŞARILI: Veri Tabanına Bağlandı. 16.06.2021 16:36:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 16.06.2021 16:37:00
+BAŞARILI: Döviz Çekme Başarılı 16.06.2021 16:37:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 15.06.2021 16:37:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 15.06.2021 16:38:00
+BAŞARILI: Döviz Çekme Başarılı 15.06.2021 16:38:01
+HATA: Döviz Çekme Hatası 15.06.2021 16:38:01
+System.InvalidOperationException: ExecuteNonQuery açık ve kullanılabilen bir Connection gerektirir. Bağlantının geçerli durumu: kapalı.
+   konum: System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   konum: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   konum: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   konum: CurrencyApi_FormApp.Form1.<GetCurrency>d__8.MoveNext() C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\Form1.cs içinde: satır 205
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 16.06.2021 16:36:21
+BAŞARILI: Veri Tabanına Bağlandı. 16.06.2021 16:36:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 16.06.2021 16:37:00
+BAŞARILI: Döviz Çekme Başarılı 16.06.2021 16:37:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 15.06.2021 16:37:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 15.06.2021 16:38:00
+BAŞARILI: Döviz Çekme Başarılı 15.06.2021 16:38:01
+HATA: Döviz Çekme Hatası 15.06.2021 16:38:01
+System.InvalidOperationException: ExecuteNonQuery açık ve kullanılabilen bir Connection gerektirir. Bağlantının geçerli durumu: kapalı.
+   konum: System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   konum: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   konum: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   konum: CurrencyApi_FormApp.Form1.<GetCurrency>d__8.MoveNext() C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\Form1.cs içinde: satır 205
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 15.06.2021 16:39:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 16.06.2021 16:36:21
+BAŞARILI: Veri Tabanına Bağlandı. 16.06.2021 16:36:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 16.06.2021 16:37:00
+BAŞARILI: Döviz Çekme Başarılı 16.06.2021 16:37:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 15.06.2021 16:37:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 15.06.2021 16:38:00
+BAŞARILI: Döviz Çekme Başarılı 15.06.2021 16:38:01
+HATA: Döviz Çekme Hatası 15.06.2021 16:38:01
+System.InvalidOperationException: ExecuteNonQuery açık ve kullanılabilen bir Connection gerektirir. Bağlantının geçerli durumu: kapalı.
+   konum: System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   konum: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   konum: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   konum: CurrencyApi_FormApp.Form1.<GetCurrency>d__8.MoveNext() C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\Form1.cs içinde: satır 205
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 15.06.2021 16:39:00
+BAŞARILI: Döviz Çekme Başarılı 15.06.2021 16:39:03
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 16.06.2021 16:36:21
+BAŞARILI: Veri Tabanına Bağlandı. 16.06.2021 16:36:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 16.06.2021 16:37:00
+BAŞARILI: Döviz Çekme Başarılı 16.06.2021 16:37:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 15.06.2021 16:37:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 15.06.2021 16:38:00
+BAŞARILI: Döviz Çekme Başarılı 15.06.2021 16:38:01
+HATA: Döviz Çekme Hatası 15.06.2021 16:38:01
+System.InvalidOperationException: ExecuteNonQuery açık ve kullanılabilen bir Connection gerektirir. Bağlantının geçerli durumu: kapalı.
+   konum: System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   konum: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   konum: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   konum: CurrencyApi_FormApp.Form1.<GetCurrency>d__8.MoveNext() C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\Form1.cs içinde: satır 205
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 15.06.2021 16:39:00
+BAŞARILI: Döviz Çekme Başarılı 15.06.2021 16:39:03
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:39:56
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 16.06.2021 16:36:21
+BAŞARILI: Veri Tabanına Bağlandı. 16.06.2021 16:36:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 16.06.2021 16:37:00
+BAŞARILI: Döviz Çekme Başarılı 16.06.2021 16:37:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 15.06.2021 16:37:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 15.06.2021 16:38:00
+BAŞARILI: Döviz Çekme Başarılı 15.06.2021 16:38:01
+HATA: Döviz Çekme Hatası 15.06.2021 16:38:01
+System.InvalidOperationException: ExecuteNonQuery açık ve kullanılabilen bir Connection gerektirir. Bağlantının geçerli durumu: kapalı.
+   konum: System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   konum: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   konum: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   konum: CurrencyApi_FormApp.Form1.<GetCurrency>d__8.MoveNext() C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\Form1.cs içinde: satır 205
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 15.06.2021 16:39:00
+BAŞARILI: Döviz Çekme Başarılı 15.06.2021 16:39:03
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:39:56
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:40:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 16.06.2021 16:36:21
+BAŞARILI: Veri Tabanına Bağlandı. 16.06.2021 16:36:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 16.06.2021 16:37:00
+BAŞARILI: Döviz Çekme Başarılı 16.06.2021 16:37:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 15.06.2021 16:37:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 15.06.2021 16:38:00
+BAŞARILI: Döviz Çekme Başarılı 15.06.2021 16:38:01
+HATA: Döviz Çekme Hatası 15.06.2021 16:38:01
+System.InvalidOperationException: ExecuteNonQuery açık ve kullanılabilen bir Connection gerektirir. Bağlantının geçerli durumu: kapalı.
+   konum: System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   konum: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   konum: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   konum: CurrencyApi_FormApp.Form1.<GetCurrency>d__8.MoveNext() C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\Form1.cs içinde: satır 205
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 15.06.2021 16:39:00
+BAŞARILI: Döviz Çekme Başarılı 15.06.2021 16:39:03
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:39:56
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:40:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:40:00
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 16.06.2021 16:36:21
+BAŞARILI: Veri Tabanına Bağlandı. 16.06.2021 16:36:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 16.06.2021 16:37:00
+BAŞARILI: Döviz Çekme Başarılı 16.06.2021 16:37:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 15.06.2021 16:37:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 15.06.2021 16:38:00
+BAŞARILI: Döviz Çekme Başarılı 15.06.2021 16:38:01
+HATA: Döviz Çekme Hatası 15.06.2021 16:38:01
+System.InvalidOperationException: ExecuteNonQuery açık ve kullanılabilen bir Connection gerektirir. Bağlantının geçerli durumu: kapalı.
+   konum: System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   konum: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   konum: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   konum: CurrencyApi_FormApp.Form1.<GetCurrency>d__8.MoveNext() C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\Form1.cs içinde: satır 205
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 15.06.2021 16:39:00
+BAŞARILI: Döviz Çekme Başarılı 15.06.2021 16:39:03
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:39:56
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:40:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:40:00
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:40:04
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 16.06.2021 16:36:21
+BAŞARILI: Veri Tabanına Bağlandı. 16.06.2021 16:36:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 16.06.2021 16:37:00
+BAŞARILI: Döviz Çekme Başarılı 16.06.2021 16:37:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 15.06.2021 16:37:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 15.06.2021 16:38:00
+BAŞARILI: Döviz Çekme Başarılı 15.06.2021 16:38:01
+HATA: Döviz Çekme Hatası 15.06.2021 16:38:01
+System.InvalidOperationException: ExecuteNonQuery açık ve kullanılabilen bir Connection gerektirir. Bağlantının geçerli durumu: kapalı.
+   konum: System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   konum: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   konum: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   konum: CurrencyApi_FormApp.Form1.<GetCurrency>d__8.MoveNext() C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\Form1.cs içinde: satır 205
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 15.06.2021 16:39:00
+BAŞARILI: Döviz Çekme Başarılı 15.06.2021 16:39:03
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:39:56
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:40:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:40:00
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:40:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 16.06.2021 16:41:07
+
+Hizmet Başlangıç ----------------------------------------------------------------------------------------------- 16.06.2021 16:36:21
+BAŞARILI: Veri Tabanına Bağlandı. 16.06.2021 16:36:21
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 16.06.2021 16:37:00
+BAŞARILI: Döviz Çekme Başarılı 16.06.2021 16:37:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 15.06.2021 16:37:57
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 15.06.2021 16:38:00
+BAŞARILI: Döviz Çekme Başarılı 15.06.2021 16:38:01
+HATA: Döviz Çekme Hatası 15.06.2021 16:38:01
+System.InvalidOperationException: ExecuteNonQuery açık ve kullanılabilen bir Connection gerektirir. Bağlantının geçerli durumu: kapalı.
+   konum: System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   konum: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   konum: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   konum: CurrencyApi_FormApp.Form1.<GetCurrency>d__8.MoveNext() C:\Users\ibrah\Desktop\CurrencyApi-FormApp\CurrencyApi-FormApp\Form1.cs içinde: satır 205
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 15.06.2021 16:39:00
+BAŞARILI: Döviz Çekme Başarılı 15.06.2021 16:39:03
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:39:56
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:40:00
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 14.06.2021 16:40:00
+BAŞARILI: Döviz Çekme Başarılı 14.06.2021 16:40:04
+Döviz Çekiliyor ----------------------------------------------------------------------------------------------- 16.06.2021 16:41:07
+BAŞARILI: Döviz Çekme Başarılı 16.06.2021 16:41:15
+

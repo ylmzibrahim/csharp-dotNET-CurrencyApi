@@ -1,0 +1,22 @@
+d[Roots]
+SQL_Server=DESKTOP-LLCEFOP\SQLEXPRESS
+VeriDizini=\\DESKTOP-LLCEFOP\Mikrov16xx
+SunucuKurulumDizini=D:\v16xx
+SQL_Prompt=YES
+connection_string=Provider=SQLNCLI11;Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=master
+SQLKullanicisiBaglantisi=NO
+ClientServicePort=8080
+Terminal_server=NO
+
+
+
+-------------------------
+"connection_string=Provider=SQLNCLI11;Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=master"
+- DATABASE.INI dosyasından "connection_string=" den sonrasını al
+- "Provider=" den ";" e kadar sil
+- başa "Data Source=" ekle
+- "Data Source=" dan sonra dosyadaki "SQL_SERVER=" den sonrasını al ve ";" ekle
+- Initial Catalog="master" yerine "MikroDB_V16" yaz
+-------------------------
+=>
+"Data Source=DESKTOP-LLCEFOP\SQLEXPRESS;Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=MikroDB_V16"

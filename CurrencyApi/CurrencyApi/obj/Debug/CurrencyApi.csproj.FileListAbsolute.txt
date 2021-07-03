@@ -1,0 +1,13 @@
+C:\Users\ibrah\Desktop\Desktop\Programming\Web Services\CurrencyApi\CurrencyApi\obj\Debug\CurrencyApi.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\Desktop\Programming\Web Services\CurrencyApi\CurrencyApi\bin\Debug\CurrencyApi.exe.config
+C:\Users\ibrah\Desktop\Desktop\Programming\Web Services\CurrencyApi\CurrencyApi\bin\Debug\CurrencyApi.exe
+C:\Users\ibrah\Desktop\Desktop\Programming\Web Services\CurrencyApi\CurrencyApi\bin\Debug\CurrencyApi.pdb
+C:\Users\ibrah\Desktop\Desktop\Programming\Web Services\CurrencyApi\CurrencyApi\obj\Debug\CurrencyApi.exe
+C:\Users\ibrah\Desktop\Desktop\Programming\Web Services\CurrencyApi\CurrencyApi\obj\Debug\CurrencyApi.pdb
+C:\Users\ibrah\Desktop\Desktop\Programming\Web Services\CurrencyApi\CurrencyApi\bin\Debug\CurrencyApi.exe.manifest
+C:\Users\ibrah\Desktop\Desktop\Programming\Web Services\CurrencyApi\CurrencyApi\bin\Debug\CurrencyApi.application
+C:\Users\ibrah\Desktop\Desktop\Programming\Web Services\CurrencyApi\CurrencyApi\obj\Debug\CurrencyApi.TrustInfo.xml
+C:\Users\ibrah\Desktop\Desktop\Programming\Web Services\CurrencyApi\CurrencyApi\obj\Debug\CurrencyApi.exe.manifest
+C:\Users\ibrah\Desktop\Desktop\Programming\Web Services\CurrencyApi\CurrencyApi\obj\Debug\CurrencyApi.application
+C:\Users\ibrah\Desktop\Desktop\Programming\Web Services\CurrencyApi\CurrencyApi\obj\Debug\CurrencyApi.ProjectInstaller.resources
+C:\Users\ibrah\Desktop\Desktop\Programming\Web Services\CurrencyApi\CurrencyApi\obj\Debug\CurrencyApi.csproj.GenerateResource.cache

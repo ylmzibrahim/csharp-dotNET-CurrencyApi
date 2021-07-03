@@ -1,0 +1,8 @@
+USD-ALIŞ: https://evds2.tcmb.gov.tr/service/evds/series=TP.DK.USD.A.YTL&startDate=14-06-2021&endDate=14-06-2021&type=xml&key=qGLP2xIpBm&aggregationTypes=avg&formulas=0&frequency=1
+USD-SATIŞ: https://evds2.tcmb.gov.tr/service/evds/series=TP.DK.USD.S.YTL&startDate=14-06-2021&endDate=14-06-2021&type=xml&key=qGLP2xIpBm&aggregationTypes=avg&formulas=0&frequency=1
+
+EUR-ALIŞ: https://evds2.tcmb.gov.tr/service/evds/series=TP.DK.EUR.A.YTL&startDate=14-06-2021&endDate=14-06-2021&type=xml&key=qGLP2xIpBm&aggregationTypes=avg&formulas=0&frequency=1
+EUR-SATIŞ: https://evds2.tcmb.gov.tr/service/evds/series=TP.DK.EUR.S.YTL&startDate=14-06-2021&endDate=14-06-2021&type=xml&key=qGLP2xIpBm&aggregationTypes=avg&formulas=0&frequency=1
+
+CAD-ALIŞ: https://evds2.tcmb.gov.tr/service/evds/series=TP.DK.CAD.A.YTL&startDate=14-06-2021&endDate=14-06-2021&type=xml&key=qGLP2xIpBm&aggregationTypes=avg&formulas=0&frequency=1
+CAD-SATIŞ: https://evds2.tcmb.gov.tr/service/evds/series=TP.DK.CAD.S.YTL&startDate=14-06-2021&endDate=14-06-2021&type=xml&key=qGLP2xIpBm&aggregationTypes=avg&formulas=0&frequency=1
